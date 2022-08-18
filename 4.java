@@ -1,3 +1,1 @@
-this is the defect update on java app
-
-watch this 
+this is something new for defect 
