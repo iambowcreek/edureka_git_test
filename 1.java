@@ -1,4 +1,4 @@
-this is DevOps 
+njknjasnjthis is DevOps 
 
 studying with edurka 
 
